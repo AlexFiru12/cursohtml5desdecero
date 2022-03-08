@@ -2,10 +2,10 @@
 
 En esta primera lección vamos a ver qué son y cómo funcionan:
 
-* Los servidores web y HTTP
-* Los navegadores
-* Las URLs
-* Peticiones HTTP
+* Los servidores web y HTTP.
+* Los navegadores.
+* Las URLs.
+* Peticiones HTTP.
 
 Por tanto empezaremos por aprender los **conceptos fundamentales** a la hora de entender el funcionamiento de una página web para adquirir una base que nos permita entender de dónde pueden venir los errores que cometamos en el futuro. 
 
